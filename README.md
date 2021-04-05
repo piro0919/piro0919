@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**piro0919/piro0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on freelance front end developer.
+- 🌱 I’m currently learning Firebase and GraphQL.
+- 👯 I'm not looking for collaboration.
+- 🤔 I'm looking for someone to sell the service I made.
+- 💬 Ask me about React, Redux, Next.js and Atomic Design.
+- 📫 How to reach me: `piro.haniwa@gmail.com`
+- 😄 Pronouns: No pronouns for me.
+- ⚡ Fun fact: I'm also a video editing professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## プロフィール
+
+- 🔭 現在フリーランサーのフロントエンドディベロッパーです。
+- 🌱 現在 Firebase 及び GraphQL について学んでいます。
+- 👯 一緒に働いてくださる人は現在探していません。
+- 🤔 作ったサービスを営業してくれる人を探しています。
+- 💬 React、Redux、Next.js 及び Atomic Design についてはお力になれるかもしれません。
+- 📫 連絡先：`piro.haniwa@gmail.com`
+- 😄 代名詞：自由に呼んでください
+- ⚡ おもしろい事実：動画編集のプロです。
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piro0919&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piro0919&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
