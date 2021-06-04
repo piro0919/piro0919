@@ -3,7 +3,7 @@
 ## Profile
 
 - 🔭 I’m currently working on freelance front end developer.
-- 🌱 I’m currently learning Firebase and GraphQL.
+- 🌱 I’m currently learning Firebase, Algolia and GraphQL.
 - 👯 I'm not looking for collaboration.
 - 🤔 I'm looking for someone to sell the service I made.
 - 💬 Ask me about React, Redux, Next.js and Atomic Design.
@@ -14,7 +14,7 @@
 ## プロフィール
 
 - 🔭 現在フリーランサーのフロントエンドディベロッパーです。
-- 🌱 現在 Firebase 及び GraphQL について学んでいます。
+- 🌱 現在 Firebase、Algolia 及び GraphQL について学んでいます。
 - 👯 現在一緒に働いてくれる人は探していません。
 - 🤔 作ったサービスを営業してくれる人を探しています。
 - 💬 React、Redux、Next.js 及び Atomic Design についてはお力になれるかもしれません。
