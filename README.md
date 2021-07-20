@@ -27,3 +27,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piro0919&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piro0919&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=piro0919&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
