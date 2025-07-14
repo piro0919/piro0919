@@ -1,1 +1,1 @@
-![](https://kk-web.link/kk-web_0.png)
+![](https://kkweb.io/kk-web_0.png)
