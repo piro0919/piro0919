@@ -1,1 +1,1 @@
-![](https://kkweb.io/kk-web_0.png)
+![](https://kkweb.io/opengraph-image)
